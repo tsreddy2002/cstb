@@ -1,0 +1,42 @@
+.header{
+    background-color: coral;
+    height: 100px;
+    width: auto;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 20px;
+}
+.links{
+    background-color:navajowhite;
+    height: 200px;
+    width: 200px;
+}
+ul{
+    list-style-type: none;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:brown;
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+li a:hover{
+    background-color:slategrey;
+}
+.righty{
+    float: right;
+}
+footer{
+    height: 30px;
+    background-color: tomato;
+}
